@@ -1,0 +1,214 @@
+{
+    "navbar": ["2024", "2025"],
+    "fotos": {
+        "2025":
+        {
+            "14F": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura 14F",
+                "imagenes": [
+                    {"src": "images/2024/14F/IMG_0563.HEIC", "caption": "Foto 1 de 14F"},
+                    {"src": "images/2024/14F/IMG_0566.HEIC", "caption": "Foto 2 de 14F"}
+                ]
+            },
+            "Apagon": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura 14F",
+                "imagenes": [
+                    {"src": "images/2024/14F/IMG_001.jpg", "caption": "Foto 1 de 14F"},
+                    {"src": "images/2024/14F/IMG_002.jpg", "caption": "Foto 2 de 14F"}
+                ]
+            }
+        },
+        "2024":
+        {
+            "18 Septiembre": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura 18 Septiembre",
+                "imagenes": [
+                    {"src": "images/2024/18 Septiembre/8eacfff7-5e8e-42f3-a39b-8ff4f9deed74.jpg", "caption": "Foto 1 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/613b523b-e1d3-40b1-aa03-ebec0f40146e.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/24b8b1d9-e3dc-49ed-90ca-017d4e0e0b61.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/c1c3b4d8-45e9-4910-8f21-fa11928aee06.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/f305879c-4974-4832-9d9b-7c4166b0d152.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/IMG_0003.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/IMG_0314.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/IMG_0581.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/IMG_0655.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/IMG_8186.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/IMG_8187.jpg", "caption": "Foto 2 de 18 Septiembre"},
+                    {"src": "images/2024/18 Septiembre/IMG_8189.jpg", "caption": "Foto 2 de 18 Septiembre"}
+                ]
+            },
+            "Año nuevo": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Año nuevo",
+                "imagenes": [
+                    {"src": "images/2024/Año nuevo/22f3274a-fe3e-4410-89d9-6d3f37c083af.jpg", "caption": "Foto 1 de Año nuevo"},
+                    {"src": "images/2024/Año nuevo/42bd7e39-8345-4f73-88f1-c35785050684.jpg", "caption": "Foto 2 de Año nuevo"},
+                    {"src": "images/2024/Año nuevo/7002561b-c3cb-43d9-b90d-ce3a2aab8e2f.jpg", "caption": "Foto 2 de Año nuevo"},
+                    {"src": "images/2024/Año nuevo/ae9c2ff3-39b2-4ca8-94b1-5c28b9c7f0a6.jpg", "caption": "Foto 2 de Año nuevo"},
+                    {"src": "images/2024/Año nuevo/fd36b43c-8094-4400-af8d-e44dd617a179.jpg", "caption": "Foto 2 de Año nuevo"}
+                ]
+            },
+            "Baryvuelvo": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Baryvuelvo",
+                "imagenes": [
+                    {"src": "images/2024/Baryvuelvo/IMG_9265.jpg", "caption": "Foto 1 de Baryvuelvo"},
+                    {"src": "images/2024/Baryvuelvo/IMG_9267.jpg", "caption": "Foto 2 de Baryvuelvo"},
+                    {"src": "images/2024/Baryvuelvo/IMG_9268.jpg", "caption": "Foto 2 de Baryvuelvo"}
+                ]
+            },
+            "Bienvendia a la crew": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Bienvendia a la crew",
+                "imagenes": [
+                    {"src": "images/2024/Bienvendia a la crew/b3395d4d-2765-49c7-88f3-3b61274569c6.jpg", "caption": "Foto 1 de Bienvendia a la crew"},
+                    {"src": "images/2024/Bienvendia a la crew/d5c0ad76-8f5c-47e7-97cc-05c843854a7a.jpg", "caption": "Foto 2 de Bienvendia a la crew"}
+                ]
+            },
+            "Bienvenida london": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Bienvenida london",
+                "imagenes": [
+                    {"src": "images/2024/Bienvenida london/6d854ac4-d501-4055-b0d6-05f65b1604f9.jpg", "caption": "Foto 1 de Bienvenida london"},
+                    {"src": "images/2024/Bienvenida london/b3a5eb1f-b468-4cca-93c7-0bdd1e3c8431.jpg", "caption": "Foto 2 de Bienvenida london"},
+                    {"src": "images/2024/Bienvenida london/825090a4-c6a1-4eea-80c0-e731dea15f58.jpg", "caption": "Foto 2 de Bienvenida london"},
+                    {"src": "images/2024/Bienvenida london/IMG_7848.PNG", "caption": "Foto 2 de Bienvenida london"},
+                    {"src": "images/2024/Bienvenida london/IMG_5791.jpg", "caption": "Foto 2 de Bienvenida london"},
+                    {"src": "images/2024/Bienvenida london/c93cbe11-9961-4d23-b5d1-e6390690e445.jpg", "caption": "Foto 2 de Bienvenida london"}
+                ]
+            },
+            "Bienvenida Roma": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Bienvenida Roma",
+                "imagenes": [
+                    {"src": "images/2024/Bienvenida Roma/68db3ffc-c5af-427d-a632-2125835d0af6.jpg", "caption": "Foto 1 de Bienvenida Roma"},
+                    {"src": "images/2024/Bienvenida Roma/IMG_6768.jpg", "caption": "Foto 2 de Bienvenida Roma"},
+                    {"src": "images/2024/Bienvenida Roma/IMG_6771.jpg", "caption": "Foto 2 de Bienvenida Roma"},
+                    {"src": "images/2024/Bienvenida Roma/IMG_6780.jpg", "caption": "Foto 2 de Bienvenida Roma"},
+                    {"src": "images/2024/Bienvenida Roma/ab78ef5b-d864-48cd-9f8c-3f9728f4f151.jpg", "caption": "Foto 2 de Bienvenida Roma"},
+                    {"src": "images/2024/Bienvenida Roma/IMG_7918.jpg", "caption": "Foto 2 de Bienvenida Roma"}
+                ]
+            },
+            "Biker lo vasquez": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Biker lo vasquez",
+                "imagenes": [
+                    {"src": "images/2024/Biker lo vasquez/3c70ea60-fd6f-4c64-93b2-7dc5daa284d1.jpg", "caption": "Foto 1 de Biker lo vasquez"},
+                    {"src": "images/2024/Biker lo vasquez/IMG_9213.jpg", "caption": "Foto 1 de Biker lo vasquez"},
+                    {"src": "images/2024/Biker lo vasquez/153e3e37-3022-4b52-a257-b0220aeb3786.jpg", "caption": "Foto 2 de Biker lo vasquez"},
+                    {"src": "images/2024/Biker lo vasquez/374fe09c-15c1-443c-bbe3-386781869982.jpg", "caption": "Foto 1 de Biker lo vasquez"},
+                    {"src": "images/2024/Biker lo vasquez/21576ea0-457e-4e7f-876f-04fb4bd46efe.jpg", "caption": "Foto 1 de Biker lo vasquez"},
+                    {"src": "images/2024/Biker lo vasquez/d587e7c0-9341-4642-a2eb-f6f6245b2023.jpg", "caption": "Foto 1 de Biker lo vasquez"}
+                ]
+            },
+            "Blow up y Demencia": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Blow up y Demencia",
+                "imagenes": [
+                    {"src": "images/2024/Blow up y Demencia/IMG_001.jpg", "caption": "Foto 1 de Blow up y Demencia"},
+                    {"src": "images/2024/Blow up y Demencia/IMG_002.jpg", "caption": "Foto 2 de Blow up y Demencia"}
+                ]
+            },
+            "Brussels": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Brussels",
+                "imagenes": [
+                    {"src": "images/2024/Brussels/IMG_001.jpg", "caption": "Foto 1 de Brussels"},
+                    {"src": "images/2024/Brussels/IMG_002.jpg", "caption": "Foto 2 de Brussels"}
+                ]
+            },
+            "Cajon del maipo": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Cajon del maipo",
+                "imagenes": [
+                    {"src": "images/2024/Cajon del maipo/IMG_001.jpg", "caption": "Foto 1 de Cajon del maipo"},
+                    {"src": "images/2024/Cajon del maipo/IMG_002.jpg", "caption": "Foto 2 de Cajon del maipo"}
+                ]
+            },
+            "Caligaris": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Caligaris",
+                "imagenes": [
+                    {"src": "images/2024/Caligaris/IMG_001.jpg", "caption": "Foto 1 de Caligaris"},
+                    {"src": "images/2024/Caligaris/IMG_002.jpg", "caption": "Foto 2 de Caligaris"}
+                ]
+            },
+            "Camas de cuarzo": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Camas de cuarzo",
+                "imagenes": [
+                    {"src": "images/2024/Camas de cuarzo/IMG_001.jpg", "caption": "Foto 1 de Camas de cuarzo"},
+                    {"src": "images/2024/Camas de cuarzo/IMG_002.jpg", "caption": "Foto 2 de Camas de cuarzo"}
+                ]
+            },
+            "Cassis": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Cassis",
+                "imagenes": [
+                    {"src": "images/2024/Cassis/IMG_001.jpg", "caption": "Foto 1 de Cassis"},
+                    {"src": "images/2024/Cassis/IMG_002.jpg", "caption": "Foto 2 de Cassis"}
+                ]
+            },
+            "Cita en parapente": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Cita en parapente",
+                "imagenes": [
+                    {"src": "images/2024/Cita en parapente/IMG_001.jpg", "caption": "Foto 1 de Cita en parapente"},
+                    {"src": "images/2024/Cita en parapente/IMG_002.jpg", "caption": "Foto 2 de Cita en parapente"}
+                ]
+            },
+            "Coctelera festival": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Coctelera festival",
+                "imagenes": [
+                    {"src": "images/2024/Coctelera festival/IMG_001.jpg", "caption": "Foto 1 de Coctelera festival"},
+                    {"src": "images/2024/Coctelera festival/IMG_002.jpg", "caption": "Foto 2 de Coctelera festival"}
+                ]
+            },
+            "ComedyRestoBar": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura ComedyRestoBar",
+                "imagenes": [
+                    {"src": "images/2024/ComedyRestoBar/IMG_001.jpg", "caption": "Foto 1 de ComedyRestoBar"},
+                    {"src": "images/2024/ComedyRestoBar/IMG_002.jpg", "caption": "Foto 2 de ComedyRestoBar"}
+                ]
+            },
+            "Cumpleaños marti": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Cumpleaños marti",
+                "imagenes": [
+                    {"src": "images/2024/Cumpleaños marti/IMG_001.jpg", "caption": "Foto 1 de Cumpleaños marti"},
+                    {"src": "images/2024/Cumpleaños marti/IMG_002.jpg", "caption": "Foto 2 de Cumpleaños marti"}
+                ]
+            },
+            "Cumpleaños Vicho": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Cumpleaños Vicho",
+                "imagenes": [
+                    {"src": "images/2024/Cumpleaños Vicho/IMG_001.jpg", "caption": "Foto 1 de Cumpleaños Vicho"},
+                    {"src": "images/2024/Cumpleaños Vicho/IMG_002.jpg", "caption": "Foto 2 de Cumpleaños Vicho"}
+                ]
+            },
+            "Edo Caroe": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Edo Caroe",
+                "imagenes": [
+                    {"src": "images/2024/Edo Caroe/IMG_001.jpg", "caption": "Foto 1 de Edo Caroe"},
+                    {"src": "images/2024/Edo Caroe/IMG_002.jpg", "caption": "Foto 2 de Edo Caroe"}
+                ]
+            },
+            "Enjoy": {
+                "fecha":"",
+                "descripcion": "Descripción de la aventura Enjoy",
+                "imagenes": [
+                    {"src": "images/2024/Enjoy/IMG_001.jpg", "caption": "Foto 1 de Enjoy"},
+                    {"src": "images/2024/Enjoy/IMG_002.jpg", "caption": "Foto 2 de Enjoy"}
+                ]
+            }
+        }
+        
+    }
+}
